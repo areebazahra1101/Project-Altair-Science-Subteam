@@ -1,7 +1,9 @@
 # Project Altair – Science Sub-Team
 
-**Author:** Areeba Zahra Kabir 
-**Institution:** Islamic University of Technology (IUT), Bangladesh  
+**Author:** Areeba Zahra Kabir  
+
+**Institution:** Islamic University of Technology (IUT), Bangladesh   
+
 **Team:** Project Altair – Mars Rover Team
 
 ## Overview
